@@ -21,9 +21,3 @@
 ###
 
 <p align="left">Hello World!!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/HolyChico/HolyChico/output/snake.svg" alt="Snake animation" />
-
-###
