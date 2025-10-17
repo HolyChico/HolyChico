@@ -1,4 +1,4 @@
-<h2 align="left">Francisco Borba S. Affonso</h2>
+<h1 align="left">Francisco Borba S. Affonso</h1>
 
 ###
 
@@ -26,4 +26,16 @@
 
 ###
 
-<p align="left"></p>
+Olá, seja bem-vindo(a)!
+Me chamo Francisco Affonso, mas pode me chamar de Chico!
+  
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na UDF.  
+Tenho utilizado meu perfil no GitHub para compartilhar as minhas soluções das atividades propostas pelos professores e também para me manter atualizado com as tecnologias e participar das comunidades
+  
+Sinta-se à vontade para deixar uma avaliação, mensagem ou dica — o que preferir!  
+Se quiser conversar, pode me chamar no Discord ou pelo LinkedIn.
+  
+Atualmente, estou utilizando as linguagens C, PHP, Python, além de HTML e CSS.
+  
+Nas horas vagas, gosto de assistir filmes, séries ou animes e jogar videogames, e você, o que gosta de fazer?
+
