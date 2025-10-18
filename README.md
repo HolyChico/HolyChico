@@ -3,6 +3,7 @@
 ###
 
 <div align="right">
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 
@@ -27,19 +28,26 @@
 
 ###
 
-<p align="left">Olá, seja bem-vindo(a)!<br>Me chamo Francisco Affonso, mas pode me chamar de Chico!</p>
+Olá, seja bem-vindo(a)! <br>
+Me chamo **Francisco Affonso**, mas pode me chamar de **Chico**!
 
 ###
 
-<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na UDF.  <br>Tenho utilizado meu perfil no GitHub para compartilhar as minhas soluções das atividades propostas pelos professores e também para me manter atualizado com as tecnologias e participar das comunidades. </p>
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na UDF.  <br>
+Tenho utilizado meu perfil no GitHub para compartilhar as minhas soluções das atividades propostas pelos professores e também para me manter atualizado com as tecnologias e participar das comunidades. 
 
 ###
 
-<p align="left">Sinta-se à vontade para deixar uma avaliação, mensagem ou dica — o que preferir!  <br>Se quiser conversar, pode me chamar no Discord ou pelo LinkedIn.</p>
+Sinta-se à vontade para deixar uma avaliação, mensagem ou dica — o que preferir!  <br>
+Se quiser conversar, pode me chamar pelo [LinkeIn](https://www.linkedin.com/in/francisco-affonso/) ou [Intagram](https://www.instagram.com/holy_chico/)!
 
 ###
 
-<p align="left">Atualmente, estou utilizando as linguagens C, PHP, Python, além de HTML e CSS.</p>
+Nas horas vagas, gosto de assistir filmes, séries ou animes e jogar videogames, e você, o que gosta de fazer?
+
+###
+
+Atualmente, estou utilizando as linguagens **C**, **PHP**, **Python**, além de **HTML** e **CSS**.
 
 ###
 
@@ -49,16 +57,12 @@
 
 ###
 
-<p align="left">Nas horas vagas, gosto de assistir filmes, séries ou animes e jogar videogames, e você, o que gosta de fazer?</p>
-
-###
-
 <!-- <img src="https://raw.githubusercontent.com/HolyChico/HolyChico/output/snake.svg" alt="Snake animation" /> --->
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontAlign=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
 ###
