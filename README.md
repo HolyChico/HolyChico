@@ -52,7 +52,7 @@ Atualmente, estou utilizando as linguagens **C**, **PHP**, **Python**, além de 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-olive-nine-95.vercel.app/api/top-langs?username=HolyChico&locale=en&hide_title=false&layout=compact&card_width=320&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-olive-nine-95.vercel.app/api/top-langs?username=HolyChico&locale=en&hide_title=false&layout=compact&card_width=320&theme=tokyonight&hide_border=true&order=2&custom_title=Languages&v=123" height="150" alt="languages graph" />
 </div>
 
 ###
