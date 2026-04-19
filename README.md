@@ -16,7 +16,7 @@ Me chamo **Francisco Affonso**, mas pode me chamar de **Chico**!
 
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na UDF. Utilizo meu perfil no GitHub para compartilhar as minhas soluções de atividades acadêmicas, manter-me atualizado com novas tecnologias e participar da comunidade.
 
-Sinta-se à vontade para deixar uma avaliação, mensagem ou dica! Se quiser conversar, pode me chamar pelo [LinkedIn](https://www.linkedin.com/in/francisco-affonso/) ou [Instagram](https://www.instagram.com/holy_chico/)!
+Sinta-se à vontade para deixar uma avaliação, mensagem ou dica! Se quiser conversar, pode me chamar pelo [LinkedIn](https://www.linkedin.com/in/francisco-affonso/)!
 
 Nas horas vagas, gosto de assistir filmes, séries ou animes e jogar videogames. E você, o que gosta de fazer?
 
@@ -31,7 +31,7 @@ My name is **Francisco Affonso**, but you can call me **Chico**!
 
 I am currently studying **Systems Analysis and Development** at UDF. I use my GitHub profile to share my solutions for college assignments, stay up-to-date with the latest technologies, and engage with the developer community.
 
-Feel free to leave feedback, a message, or a tip! If you'd like to chat, reach out via [LinkedIn](https://www.linkedin.com/in/francisco-affonso/) or [Instagram](https://www.instagram.com/holy_chico/)!
+Feel free to leave feedback, a message, or a tip! If you'd like to chat, reach out via [LinkedIn](https://www.linkedin.com/in/francisco-affonso/)!
 
 In my spare time, I enjoy watching movies, series, or anime and playing video games. What about you? What do you like to do?
 
